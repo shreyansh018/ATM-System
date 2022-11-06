@@ -1,4 +1,5 @@
-# ATM Manage System
+# ATM Management System:
+It is an ATM System created with technologies like Java, MySQL, SQL. It has some features like a real ATM machine have. I have also used MySQL to store my Database and used Java Database Connectivity JDBC to use SQL queries in my project and to communicate with MySQL database.
 
 ## 1. Login Page:
 This page is a Log in page which contains Card No and Pin text fields so that we can add our details and get directly access to the Transaction page.
